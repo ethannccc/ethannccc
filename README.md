@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
-<!--
-**ethannccc/ethannccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **2nd Year Computer Science & Game Design Student**  
+🎨 **Aspiring Front End & Graphic Designer**
 
-Here are some ideas to get you started:
+## 👾 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about blending creativity and technology to build engaging digital experiences. My journey is focused on the intersection of games, interactive design, and code.
+
+## 🛠️ Skills
+
+- **Front End Development:**  
+  HTML • CSS • JavaScript
+
+- **Programming Languages:**  
+  Python • Java • C# • C++
+
+- **Graphic & UI Design:**  
+  Visual storytelling and user experience for games/applications
+
+## 🚀 What I'm Working On
+
+Currently learning, experimenting, and building projects at the crossroad of code and creativity. Always eager to take on new challenges and grow my skillset!
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories or reach out through GitHub!
