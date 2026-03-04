@@ -32,8 +32,8 @@ Let's connect! Always down to talk about anything whether it's tech, design, gam
 <details>
   <summary><b>GitHub Stats 📊</b></summary>
 
-  ![](https://github-readme-stats.vercel.app/api?username=ethannccc&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=ethannccc&theme=midnight-purple&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethannccc&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=ethannccc&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![Github Streaks](https://nirzak-streak-stats.vercel.app/?user=ethannccc&theme=highcontrast&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethannccc&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
 </details>
