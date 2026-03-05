@@ -2,7 +2,7 @@
 
 <h3> 🙋 About Me </h3>
 
-I'm passionate about the intersection between creativity, technology, and games to build impactful digital experiences.
+I'm a passionate software engineer and student interested in learning more about the intersection between creativity, technology, and games to build impactful digital experiences.
 
 * 🎓 Second-year Computer Science & Game Development student at Northeastern University
 * 👩🏻‍💻 Working as a Teaching Fellow at **[CodePath](https://codepath.org)**
