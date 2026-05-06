@@ -5,9 +5,9 @@
 I'm a passionate software engineer and student interested in learning more about the intersection between creativity, technology, and games to build impactful digital experiences.
 
 * 🎓 Second-year Computer Science & Game Development student at Northeastern University
-* 👩🏻‍💻 Working as a Teaching Fellow at **[CodePath](https://codepath.org)**
-* 📚 Currently building a book trading application
-* 🕹️ Designing and experimenting with game level design
+* 💼 Working as a Teaching Fellow at **[CodePath](https://codepath.org)**
+* 👩🏻‍💻 Incoming Software Engineer Co-op at **[Insulet](https://insulet.com)**
+* 🕹️ Currently designing and working on a Pokemon game
 
 ---
 
@@ -26,14 +26,3 @@ Let's connect! Always down to talk about anything whether it's tech, design, gam
 <a href="mailto:ethanchen273@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://github.com/ethannccc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
 <a href=""><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-
----
-
-<details>
-  <summary><b>GitHub Stats 📊</b></summary>
-
-  ![](https://github-readme-stats.vercel.app/api?username=ethannccc&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![Github Streaks](https://nirzak-streak-stats.vercel.app/?user=ethannccc&theme=highcontrast&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethannccc&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-  
-</details>
